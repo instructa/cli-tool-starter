@@ -12,9 +12,7 @@
     "url": "git+https://github.com/instructa/tool-starter"
   },
   "keywords": [
-    "mcp",
-    "tool-starter",
-    "model-context-protocol"
+    "tool-starter"
   ],
   "exports": {
     ".": "./dist/index.mjs",

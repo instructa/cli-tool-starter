@@ -5,7 +5,7 @@ export const cli = defineCommand({
   meta: {
     name: 'tool-cli-starter',
     version,
-    description: 'Run the MCP starter with stdio, http, or sse transport',
+    description: 'Run the starter CLI',
   },
   args: {
     hello: { type: 'boolean', description: 'Show help message' },
